@@ -75,7 +75,7 @@ Route::name('admin')->group(function () {
     })->name('users');
 });
 
-// //Acara 5
+//Acara 5
 // Route::get('user', [ManagementUserController::class, 'index']);
 // Route::get('user/create', [ManagementUserController::class, 'create']);
 // Route::post('user', [ManagementUserController::class, 'store']);
