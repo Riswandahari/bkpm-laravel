@@ -159,7 +159,7 @@ Route::post('/api/pendidikan', [ApiPendidikanController::class, 'createPen']);
 Route::put('/api/pendidikan/{id}', [ApiPendidikanController::class, 'updatePen']);
 Route::delete('/api/pendidikan/{id}', [ApiPendidikanController::class, 'deletePen']);
 
-
+//
 
 
 
